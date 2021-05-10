@@ -39,7 +39,7 @@
     "fs-extra": "^7.0.1",
     "got": "^9.6.0",
     "inquirer": "^6.5.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "moment": "^2.24.0",
     "promise": "^8.0.3",
     "window-size": "^1.1.0"
